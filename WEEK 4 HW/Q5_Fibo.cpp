@@ -19,7 +19,10 @@ int fib(int n) {
 }
 
 
-int main() {
-	int n = 21;
-	cout << "fib(" << n << ") = " << fib(n) << endl;
-}
+//int main() {
+//	int n = 21;
+//	for (int i = 0; i < n+1; i++)
+//	{
+//		cout << "fib(" << i << ") = " << fib(i) << endl;
+//	}
+//}

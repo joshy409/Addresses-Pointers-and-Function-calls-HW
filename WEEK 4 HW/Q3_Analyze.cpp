@@ -5,10 +5,11 @@ void swap(float** a, float** b) {
 	*a = *b;
 	*b = temp;
 }
-int main() {
-	float a = 1.234;
-	float b = 4.321;
-	float* pa = &a;
-	float* pb = &b;
-	swap(&pa, &pb);
-}
+//int main() {
+//	float a = 1.234;
+//	float b = 4.321;
+//	float* pa = &a;
+//	float* pb = &b;
+//	swap(&pa, &pb);
+//
+//}
